@@ -1,4 +1,5 @@
 ## Hi there 👋
+  ## My name is Rikesh Achaya and I am a passionate GenAI and Information Security person
 
 <!--
 **RikeshAcharya/rikeshacharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
